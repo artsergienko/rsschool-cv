@@ -2,9 +2,9 @@
 ## Junior Frontend Developer
 ### Contact information:
  + **Phone:** +7 988 489 08 51
- + **E-mail:** artem.k.sergienko@gmail.com
- + **Telegram:** https://t.me/artsergienko
- + **Website:** https://artsergienko.dev/
+ + **[E-mail:](artem.k.sergienko@gmail.com)**
+ + **[Telegram:](https://t.me/artsergienko)**
+ + **[Website:](https://artsergienko.dev/)**
 
 ### **Briefly About Myself:**
 
