@@ -33,6 +33,12 @@ div {
     flex-direction: row;
     justify-content: space-between;
 }
+.ul-foot {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 img {
     width: 100px;
 }
