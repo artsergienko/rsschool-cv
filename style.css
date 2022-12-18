@@ -1,5 +1,20 @@
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    list-style-type: none;
+}
+li {
+    padding: 20px;
+}
+
+a {
+    text-decoration:none;
+    color: black
+  }
+
 body {
-    background-color: grey;
+    padding: 40px;
 }
 h1 {
     display: flex;
@@ -11,4 +26,19 @@ h1 {
 div {
     border: 2px;
     color: black;
+}
+
+.foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ul-foot {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img {
+    width: 100px;
 }
